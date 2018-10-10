@@ -3,7 +3,7 @@
 
 [Center for Research in Mathematics (CIMAT)](http://www.cimat.mx/en)
 
-Authors: [Andres Mitre](https://github.com/andresmitre) [Hugo A. Mitre-Hernandez](https://github.com/HugoMitre)
+Authors: [Andres Mitre](https://github.com/andresmitre) | [Hugo A. Mitre-Hernandez](https://github.com/HugoMitre)
 
 Email: andres.mitre@cimat.mx | hmitre@cimat.mx
 
