@@ -1,9 +1,11 @@
 #  Study of Spontaneous and Acted Learn-Related Emotions Through FER and GSR
 
 
-[Center for Research in Mathematics (CIMAT)](http://www.cimat.mx/en)
 
-Authors: [Andres Mitre](https://github.com/andresmitre) | [Hugo A. Mitre-Hernandez](https://github.com/HugoMitre)
+
+Authors: [Andres Mitre](https://github.com/andresmitre) [0000−0003−4888−5453] and [Hugo A. Mitre-Hernandez](https://github.com/HugoMitre) [0000−0003−2840−3998]
+
+Human-Centered Computing Lab (HCC) - [Center for Research in Mathematics (CIMAT)](http://www.cimat.mx/en)
 
 Email: andres.mitre@cimat.mx | hmitre@cimat.mx
 
@@ -31,9 +33,14 @@ The classifation for FER was made with a Convolutional Neural Network by [Tensor
 In learning environments emotions can activate or deactivate the learning process. Boredom, stress and happy –learn-related emotions– are included in physiological signals datasets, but not in Facial Expression Recognition (FER) datasets. In addition to this, Galvanic Skin Response (GSR) signal is the most representative data for emotions classification. This paper presents a technique to generate a dataset of facial expressions and physiological signals of spontaneous and acted learn-related emotions –boredom, stress, happy and neutral state– presented during video stimuli and face acting. We conducted an experiment with 22 participants (Mexicans); a dataset of 1,840 facial expressions images and 1,584 GSR registers were generated. Then, a Convolutional Neural Network (CNN) model was trained with the facial expression dataset, then statistical analysis was performed with the GSR dataset. MobileNet’s CNN reached an overall accuracy of 94.36% in a confusion matrix. But, the accuracy decreased to 28% for non-trained external images. The statistical results of GSR presented with significant differences in the confused emotions are discussed.
 
 
-# Datasets
+# Dataset
 
-The dataset consisted of two sessions: spontaneous and acted. </p> <p> Firstly, the procedure of the experiment consisted in provide instructions to the participants about the session and how to position their middle and index phalanges over the GSR electrodes. During the session, participants watched a series of films (stimuli) while raw data was recorded –photos taken at 10 FPS and GSR recording at 10Hz.</p><p>The stimuli for the spontaneous session consisted in the following sequence: Neutral → Stress → Neutral → Boredom → Neutral → Happy; where at the end of every stimuli, neutrality was induced to the participant to generate the correct desired emotion. Raw data was taken in an interval of 30 seconds from the scene where the strongest emotion appeared. The facial expression and GSR reading captured at 10 FPS and Hz respectively for spontaneous emotion
+
+####  <b>Hispanic Facial Expressions and Galvanic Skin Response (HFEGSR)</b>
+
+
+<p> A sample of 22 subjects of Hispanic ethnicity participated in the study: 9 female and
+13 males with a range from 18 to 62 years.<p/> The dataset consisted of two sessions: spontaneous and acted. Firstly, the procedure of the experiment consisted in provide instructions to the participants (30) about the session and how to position their middle and index phalanges over the GSR electrodes. During the session, participants watched a series of films (stimuli) while raw data was recorded –photos taken at 10 FPS and GSR recording at 10Hz.</p><p>The stimuli for the spontaneous session consisted in the following sequence: Neutral → Stress → Neutral → Boredom → Neutral → Happy; where at the end of every stimuli, neutrality was induced to the participant to generate the correct desired emotion. Raw data was taken in an interval of 30 seconds from the scene where the strongest emotion appeared. The facial expression and GSR reading captured at 10 FPS and Hz respectively for spontaneous emotion
 
 Contact [Author](https://github.com/andresmitre)
 
