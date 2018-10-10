@@ -3,9 +3,9 @@
 
 [Center for Research in Mathematics (CIMAT)](http://www.cimat.mx/en)
 
-Author: [Andres Mitre](https://github.com/andresmitre)
+Authors: [Andres Mitre](https://github.com/andresmitre) [Hugo A. Mitre-Hernandez](https://github.com/HugoMitre)
 
-Email: andres.mitre@cimat.mx | andres18m@gmail.com
+Email: andres.mitre@cimat.mx | hmitre@cimat.mx
 
 Twitter:  [@andresmitre_](https://twitter.com/andresmitre_)
 
@@ -33,7 +33,7 @@ In learning environments emotions can activate or deactivate the learning proces
 
 # Datasets
 
-The dataset consisted of two sessions: spontaneous and acted. </p> <p> Firstly, the procedure of the experiment consisted in provide instructions to the participants about the session and how to position their middle and index phalanges over the GSR electrodes. During the session, participants watched a series of films (stimuli) while raw data was recorded –photos taken at 10 FPS and GSR recording at 10Hz.</p><p>The stimuli for the spontaneous session consisted in the following sequence: Neutral →− Stress →− Neutral →− Boredom →− Neutral →− Happy; where at the end of every stimuli, neutrality was induced to the participant to generate the correct desired emotion. Raw data was taken in an interval of 30 seconds from the scene where the strongest emotion appeared. The facial expression and GSR reading captured at 10 FPS and Hz respectively for spontaneous emotion
+The dataset consisted of two sessions: spontaneous and acted. </p> <p> Firstly, the procedure of the experiment consisted in provide instructions to the participants about the session and how to position their middle and index phalanges over the GSR electrodes. During the session, participants watched a series of films (stimuli) while raw data was recorded –photos taken at 10 FPS and GSR recording at 10Hz.</p><p>The stimuli for the spontaneous session consisted in the following sequence: Neutral → Stress → Neutral → Boredom → Neutral → Happy; where at the end of every stimuli, neutrality was induced to the participant to generate the correct desired emotion. Raw data was taken in an interval of 30 seconds from the scene where the strongest emotion appeared. The facial expression and GSR reading captured at 10 FPS and Hz respectively for spontaneous emotion
 
 Contact [Author](https://github.com/andresmitre)
 
