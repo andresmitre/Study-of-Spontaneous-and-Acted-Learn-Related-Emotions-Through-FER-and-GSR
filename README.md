@@ -4,9 +4,9 @@
 
 [Center for Research in Mathematics (CIMAT)](http://www.cimat.mx/en)
 
-Author: [Andres Mitre](https://github.com/andresmitre)
+Author: [Andres Mitre](https://github.com/andresmitre),[Hugo Mitre](http://scholar.google.com/citations?user=TjQqDSIAAAAJ&hl=en)
 
-Email: andres.mitre@cimat.mx | andres18m@gmail.com
+Email: andres.mitre@cimat.mx | andres18m@gmail.com, hmitre@cimat.mx
 
 Twitter:  [@andresmitre_](https://twitter.com/andresmitre_)
 
